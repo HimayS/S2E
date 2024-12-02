@@ -1,0 +1,7 @@
+{
+  "name": "Prospera SMS Forwarder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
